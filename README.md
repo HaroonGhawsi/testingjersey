@@ -1,4 +1,4 @@
-# testingjersey
+# Creating a Jersey Project in Eclipse
 Jersey Example
 
 - Change the jersey version in pom.xml to remove dependency problems
